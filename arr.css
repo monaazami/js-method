@@ -10,3 +10,30 @@ h1{
 body{
     background-color: #E6FFFD;
 }
+.js{
+    color: #FFFFFF;
+    border: 3px solid #1A9BA1;
+    padding: 30px;
+    background-color: #73D6DA;
+    max-width: 55%;
+    margin:60px auto;
+    font-size: 24px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    color:#064E4E;
+}
+
+tr:nth-child(even) {
+    background-color: #C2FFFB;
+}
