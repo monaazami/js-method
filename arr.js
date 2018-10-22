@@ -7,7 +7,7 @@ function printReverce(arr){
         console.log(newarray[i]);
     }
 }
-printReverce([1,3,4,2,5,3,6,9]);
+printReverce(["a","h","f"]);
 
 // is Uniform
 function isUniform(arr){
@@ -18,7 +18,7 @@ function isUniform(arr){
     }
     
 }
-isUniform([1,2,1]);
+isUniform([1,3,1]);
 
 
 // sumArray
@@ -29,7 +29,7 @@ function sumArray(array){
     }
     console.log(sum);
 }
-sumArray([1,1,4,10,-6]);
+sumArray([1,1,4,10,6]);
 
 
 
